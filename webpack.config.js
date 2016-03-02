@@ -1,5 +1,3 @@
-'use strict';
-
 var path = require('path');
 var ExtractTextPlugin = require('extract-text-webpack-plugin');
 var webpack = require('webpack');
